@@ -22,7 +22,7 @@ jsonschema==2.5.1
 lxml==3.3.5
 MarkupSafe==0.23
 maxminddb==1.2.0
-mistune==0.7.3
+mistune==0.8.1
 # mod-wsgi-httpd==2.4.27.1
 mod-wsgi==4.6.4
 nbconvert==4.2.0
