@@ -19,7 +19,7 @@ ipykernel==4.5.0
 ipython==5.1.0
 ipython-genutils==0.1.0
 jsonschema==2.5.1
-lxml==3.3.5
+lxml==4.6.3
 MarkupSafe==0.23
 maxminddb==1.2.0
 mistune==0.7.3
